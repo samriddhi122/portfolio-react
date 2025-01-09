@@ -2,7 +2,7 @@ import { useRef, useState, useEffect } from 'react';
 import LinkedInImage from '../assets/linkedin.png';
 import GitHubImage from '../assets/github.png';
 import MailImage from '../assets/mail.png';
-import ResumePDF from '../assets/Resume_Samriddhi.pdf';
+import ResumePDF from '../assets/resume_samriddhi.pdf';
 import LeetCodeImage from '../assets/LeetCode.png';
 import GeeksforGeeksImage from '../assets/gfg.png';
 
