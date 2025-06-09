@@ -44,13 +44,20 @@ const About = () => {
         <div className="flex flex-col items-center md:space-x-12">
           <div className="flex-1">
             <p className="text-lg mb-8">
-            Samriddhi | Second Year | Institute of Engineering and Technology
- * Full-Stack Developer with a strong foundation in C++ and Data Structures & Algorithms.
- * Passionate about problem-solving, software development, and building innovative web applications.
- * Proficient in core web development concepts and actively learning the MERN stack (MongoDB, Express.js, React, Node.js).
- * Seeking an internship to gain practical experience, contribute to real-world projects, and accelerate my growth in the tech industry.
- * Enthusiastic learner with a keen interest in exploring new technologies and staying updated with industry trends.
- * Outside of coding: I enjoy reading thought-provoking books and expressing my creativity through writing. </p>
+            Samriddh👩‍💻 Samriddhi | Second Year | Institute of Engineering and Technology
+💻 Full-Stack Developer with a strong foundation in C++ and Data Structures & Algorithms
+
+🌱 Passionate about problem-solving, software development, and building innovative web applications
+
+⚙️ Proficient in core web development, currently diving deep into the MERN stack (MongoDB, Express.js, React, Node.js)
+
+🗄️ Working knowledge of SQL, DBMS, and Operating Systems — with hands-on understanding of how systems interact under the hood
+
+🎯 Actively seeking an internship to gain practical experience and contribute to real-world projects
+
+🚀 Quick learner with a constant drive to explore new technologies and keep up with industry trends
+
+📚 Beyond code: I enjoy reading thought-provoking books and expressing my creativity through writing </p>
             <div className="flex justify-center items-center space-x-6 my-8">
               <a 
                 href="https://www.linkedin.com/in/samriddhi-sahu-a14273298/" 

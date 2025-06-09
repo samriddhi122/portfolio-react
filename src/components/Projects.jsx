@@ -1,8 +1,7 @@
 import portfolioImage from "../assets/portfolio-img.png";    // Import Netflix Clone image
 import simonImage from "../assets/Simon-Game.png";           
 import drumImage from "../assets/drumkit.png";            // Import URL Shortener image
-
-// Import new project images
+import myContactImage from "../assets/mycontact.png";          // Import MyContact image
 import diceImage from "../assets/dice.png";            // Import Hotel Management System image
 import sihImage from "../assets/sih.png";          // Import Camp Booking System image
 import todoImage from "../assets/todo.png";          // Import To Do App using Django image
@@ -13,42 +12,56 @@ const projects = [
     name: "Portfolio",
     technologies: "React, Tailwind CSS",
     image: portfolioImage,
-    github: "",
+    github: "https://github.com/samriddhi122/portfolio-react",
   },
   {
     id: 2,
+    name: "Campus Stories",
+    technologies: "Express.js, MongoDB,Node.js",
+    image: todoImage,
+    github: "https://github.com/samriddhi122/miniMedium/commits/main/",
+  },
+  {
+    id: 3,
+    name: "MyContact Frontend",
+    technologies: "React, Tailwind CSS",
+    image: "myContactImage",
+    github: "https://github.com/samriddhi122/mycontacts_frontend",
+  },
+  {
+    id: 4,
     name: "Simon Game",
     technologies: "JavaScript, HTML, Css",
     image: simonImage,
     github: "https://github.com/samriddhi122/simonGame",
   },
   {
-    id: 3,
-    name: "Drumkit",
-    technologies: "CSS,HTML",
-    image: drumImage,
-    github: "https://github.com/samriddhi122/Drumkit",
-  },
-  {
-    id: 4,
-    name: "Dice Game",
-    technologies: "JavaScript, HTML, Css",
-    image: diceImage,
-    github: "https://github.com/samriddhi122/MydiceGame",
-  },
-  {
     id: 5,
+    name: " INFERNO GUARD",
+    technologies: " Next.js, TypeScript, Node.js, Firebase, Gmail API, Google Maps API",
+    image: "",
+    github: "https://github.com/Ryadav0654/prayatna2.0/commits?author=samriddhi122",
+  },
+  {
+    id: 6,
     name: "Sansthaein Aur Samvidhan",
     technologies: "Node.js,Express.js,MongoDB",
     image: sihImage,
     github: "https://github.com/samriddhi122/sihbackend",
   },
   {
-    id: 6,
-    name: "To Do App using React",
-    technologies: "",
-    image: todoImage,
-    github: "",
+    id: 7,
+    name: "Drumkit",
+    technologies: "CSS,HTML",
+    image: drumImage,
+    github: "https://github.com/samriddhi122/Drumkit",
+  },
+  {
+    id: 8,
+    name: "Dice Game",
+    technologies: "JavaScript, HTML, Css",
+    image: diceImage,
+    github: "https://github.com/samriddhi122/MydiceGame",
   },
 ];
 
